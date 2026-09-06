@@ -8,6 +8,8 @@ export const projects = [
     features: ['Responsive Design', 'Smooth Animations', 'Modern UI', 'Contact Form'],
     code: 'https://github.com/YashRajSahu44/portfolio.git',
     live: 'https://yash-portfolio-mu-eight.vercel.app/',
+    monogram: 'YS',
+    gradient: 'linear-gradient(160deg, #ff8a5b 0%, #ff6b6b 55%, #c23616 100%)',
   },
   {
     id: 2,
@@ -18,6 +20,8 @@ export const projects = [
     features: ['Buy & Sell', 'Rent Items', 'Request Item', 'Campus Only'],
     code: 'https://github.com/YashRajSahu44/SmartCampusMarketplace_.git',
     live: 'https://n3xtg3n.xyz/',
+    monogram: 'SC',
+    gradient: 'linear-gradient(160deg, #6c5ce7 0%, #4834d4 55%, #1e1b4b 100%)',
   },
   {
     id: 3,
@@ -28,6 +32,8 @@ export const projects = [
     features: ['Real-time Weather', 'Dynamic Animations', 'Air Quality', 'API Integration'],
     code: 'https://github.com/YashRajSahu44/CheckTemp.git',
     live: 'https://yashrajsahu44.github.io/CheckTemp/',
+    monogram: 'CT',
+    gradient: 'linear-gradient(160deg, #38bdf8 0%, #0ea5e9 55%, #0c4a6e 100%)',
   },
   {
     id: 4,
@@ -38,5 +44,7 @@ export const projects = [
     features: ['Tax Calculation', 'FY 2025-26 Regime', 'Instant Estimate', 'Clean UI'],
     code: 'https://github.com/YashRajSahu44/TaxWise.git',
     live: 'https://yashrajsahu44.github.io/TaxWise/',
+    monogram: 'TW',
+    gradient: 'linear-gradient(160deg, #34d399 0%, #059669 55%, #064e3b 100%)',
   },
 ]

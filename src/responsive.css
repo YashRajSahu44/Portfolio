@@ -35,8 +35,7 @@
   .skills-container{
     grid-template-columns:repeat(2,1fr);
   }
-  .projects-grid{
-    grid-template-columns:1fr;
+  .project-feed{
     padding:0 12px;
   }
   .cert-container{
@@ -77,28 +76,27 @@
   .skill-card p{
     font-size:12px;
   }
-  .projects-grid{
+  .project-feed{
     padding:0 12px;
   }
-  .project-card{
-    padding:16px;
+  .project-feature-card{
+    min-height:320px;
+    padding:24px;
+    border-radius:22px;
   }
-  .project-card h3{
-    font-size:16px;
-    word-break:break-word;
+  .project-feature-monogram{
+    font-size:150px;
   }
-  .project-card p{
+  .project-feature-desc{
     font-size:12px;
   }
-  .project-features span{
+  .project-feature-features span{
     font-size:10px;
     padding:3px 7px;
   }
-  .proj-btn,
-  .proj-btn-live{
+  .project-feature-btn{
     font-size:12px;
-    padding:8px 14px;
-    box-shadow:3px 3px #000;
+    padding:8px 16px;
   }
   .about-text{
     padding:28px 18px;
