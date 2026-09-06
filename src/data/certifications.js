@@ -1,0 +1,32 @@
+export const certifications = [
+  {
+    id: 1,
+    badge: 'U',
+    badgeClass: 'unstop',
+    title: 'Certificate of Participation',
+    org: 'Unstop',
+    date: 'Issued May 2026',
+    desc: 'Finalist of TIT Srijan Hackathon',
+    link: 'https://unstop.com/certificate-preview/6c8ebca8-7423-47d4-a1da-3154f74237f8',
+  },
+  {
+    id: 2,
+    badge: 'O',
+    badgeClass: 'oracle',
+    title: 'Oracle Cloud Infrastructure 2025',
+    org: 'Oracle',
+    date: 'Issued Oct 2025',
+    desc: 'Certified AI Foundation Associate',
+    link: 'https://catalog-education.oracle.com/ords/certview/sharebadge?id=61E456AFD834C0B736A795BD02492AE8E09C926FF81267255D3D5A59680EDBB1',
+  },
+  {
+    id: 3,
+    badge: 'O',
+    badgeClass: 'oracle',
+    title: 'Oracle Cloud Infrastructure 2025',
+    org: 'Oracle',
+    date: 'Issued Oct 2025',
+    desc: 'Certified Generative AI Professional · Skills: Generative AI',
+    link: 'https://catalog-education.oracle.com/pls/certview/sharebadge?id=94B83347ADBDFAF069F6CF7DE467C59AA7DED12E79A13F46BF47186B9C70712F',
+  },
+]
