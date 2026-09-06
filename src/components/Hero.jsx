@@ -9,7 +9,7 @@ export default function Hero() {
       </h1>
       <div style={{ textAlign: 'center' }}>
         <p className="intro">
-          First-year B.Tech student at LNCT,Bhopal <br />trying to become a BetterHumanBeing
+     Building scalable frontend systems <br /> and modern web experiences <br /> with a strong focus on performance-focused engineering
         </p>
       </div>
       <div className="btn-container">
