@@ -8,7 +8,7 @@ export default function Footer() {
       </div>
       <div className="footer-right">
         <a href="https://github.com/Yashrajsahu44" aria-label="GitHub"><i className="fa-brands fa-github"></i></a>
-        <a href="https://x.com/RedEyeCentipede" aria-label="Twitter"><i className="fa-brands fa-twitter"></i></a>
+        <a href="https://x.com/livingbxtter" aria-label="Twitter"><i className="fa-brands fa-twitter"></i></a>
         <a href="https://www.linkedin.com/in/yashraj-sahu-588825375" aria-label="LinkedIn"><i className="fa-brands fa-linkedin-in"></i></a>
         <a href="mailto:yashsahu10th@gmail.com" aria-label="Email"><i className="fa-solid fa-envelope"></i></a>
       </div>
