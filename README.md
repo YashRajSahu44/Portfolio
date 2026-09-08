@@ -1,21 +1,19 @@
 # ᯓ➤ Portfolio
 
-A clean, responsive personal portfolio website built with pure **HTML** and **CSS** — no frameworks, no dependencies.
+A clean, responsive personal portfolio website built with React and Vite
 
-> *"First-year B.Tech student at LNCT,Bhopal
-on a mission to become a BetterHumanBeing 🍂"*
 
 ---
 
 ## ⤿  Live Demo
 
-**[View Portfolio →](https://yashrajsahu44.github.io/portfolio/)**
+**[View Portfolio →](yashraj-nu.vercel.app)**
 
 ---
 
 ## ⤿ Preview
 
-![Portfolio Preview](preview.png)
+![Portfolio Preview](public/preview.png)
 
 ---
 
@@ -30,37 +28,21 @@ on a mission to become a BetterHumanBeing 🍂"*
 ---
 
 ## ⤿ Project Structure
-
 ```
 portfolio/
-│
-├── index.html                # Main portfolio page
-├── README.md                 # Project documentation
-│
-├── css/
-│   ├── style.css             # Main styling
-│   └── responsive.css        # Responsive design styles
-│
-├── js/
-│   └── script.js             # JavaScript functionality
-│
-├── assets/
-│   ├── images/
-│   │   ├── preview.png
-│   │   ├── profile.jpg
-│   │   ├── project1.png
-│   │   └── ...
-│   │
-│   ├── cv/
-│   │   └── Resume.pdf
-│   │
-│   └── icons/
-│       └── ...
-│
-└── docs/
-    └── screenshots/
+├── public/
+├── src/
+│   ├── assets/
+│   ├── components/
+│   ├── App.jsx
+│   └── main.jsx
+├── .gitignore
+├── index.html
+├── package.json
+├── package-lock.json
+├── vite.config.js
+└── README.md
 ```
-
 ---
 
 ## ⤿ Sections
@@ -71,26 +53,6 @@ portfolio/
 | **Skills** | Technical skills and tools |
 | **Projects** | Personal and academic projects |
 | **Contact** | Ways to connect |
-
----
-
-## ⤿ Tech Stack
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
----
-
-## ⤿ Getting Started
-
-```bash
-# Clone the repository
-git clone https://github.com/yashrajsahu44/portfolio.git
-
-# Open in browser
-open index.html
-```
 
 ---
 
